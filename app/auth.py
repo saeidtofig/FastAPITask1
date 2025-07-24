@@ -10,7 +10,7 @@ from . import models, database
 # Load SECRET_KEY securely
 SECRET_KEY = os.getenv("SECRET_KEY", "default-insecure-key")  # Set securely in production!
 ALGORITHM = "HS256"
-ACCESS_TOKEN_EXPIRE_MINUTES = 30
+ACCESS_TOKEN_EXPIRE_MINUTES = 45
 
 # Password hashing context
 pwd_context = CryptContext(schemes=["bcrypt"], deprecated="auto")
