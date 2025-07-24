@@ -119,4 +119,4 @@ Feel free to fork and PR improvements or bug fixes.
 
 ## 📜 License
 
-© 2025 Saeid Tofighi
+© 2025 [Saeid Tofighi](https://github.com/saeidtofig)
